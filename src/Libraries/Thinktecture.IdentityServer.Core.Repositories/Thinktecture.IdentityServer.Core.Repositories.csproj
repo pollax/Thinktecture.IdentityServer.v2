@@ -91,6 +91,7 @@
     <Compile Include="Migrations.SqlCe\201308171332371_DisableSSL.Designer.cs">
       <DependentUpon>201308171332371_DisableSSL.cs</DependentUpon>
     </Compile>
+    <Compile Include="MySqlConfiguration.cs" />
     <Compile Include="OpenIdConnectClientsRepository.cs" />
     <Compile Include="EntityModel\CodeToken.cs" />
     <Compile Include="EntityModel\Configuration\AdfsIntegrationConfiguration.cs" />
